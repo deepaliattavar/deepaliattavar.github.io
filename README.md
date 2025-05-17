@@ -1,35 +1,74 @@
+---
+layout: default
+title: Deepali Attavar | Portfolio
+---
+
 # 👋 Hi, I'm Deepali Attavar
 
-🎓 MS in Business Analytics & AI @ **The University of Texas at Dallas**  
-📊 Passionate about data science, machine learning, and transforming data into actionable insights.  
-🌐 Exploring cloud platforms, analytics tools, and real-world applications in tech and business.
+🎓 **MS in Business Analytics & AI** @ *UT Dallas*  
+💻 Data Analyst | ML Enthusiast | Builder of Data-Driven Solutions  
+📈 Passionate about transforming raw data into business impact using Python, SQL, and cloud tools.
 
 ---
 
-## 🔧 Skills & Interests
+## 🛠️ Skills & Tools
 
-- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
-- 🧮 SQL (Advanced), R, Power BI, Tableau  
-- ☁️ Cloud Platforms: Azure, AWS basics  
-- 💻 Tools: Excel (Advanced), Qlik Replicate, Git/GitHub
-
----
-
-## 🚀 Projects
-
-- **Loan Approval Prediction System** – ML pipeline with 98% accuracy  
-- **Parking Lot Management System** – MySQL-based automation handling 700+ weekly transactions  
-- **Location Recommender System** – K-Means + collaborative filtering (Published at AICDMB 2023)  
-- **DoorDash ETA Prediction** – Delivery time optimization using XGBoost and 190K+ order data
+- **Languages:** Python, R, SQL, HTML, MATLAB, JavaScript  
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
+- **BI Tools:** Power BI, Tableau, Excel (Advanced), Adobe Analytics, Google Analytics  
+- **Cloud & ETL:** Microsoft Azure, AWS (basic), Qlik Replicate  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j  
+- **Other:** Git, GitHub, PySpark, Jupyter, VS Code
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Highlight Projects
 
-- [LinkedIn](https://www.linkedin.com/in/deepali-attavar)  
-- [GitHub](https://github.com/deepaliattavar)  
-- ✉️ Let’s connect — always open to collaborations, data chats, and new ideas!
+### [Loan Approval Prediction](https://github.com/deepaliattavar/Loan-Approval-Prediction)
+ML model with 98% accuracy using PCA and Scikit-learn.
+
+### [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System)
+MySQL-based automation handling 700+ weekly transactions.
+
+### [Location Recommender System](https://github.com/deepaliattavar/Location-Recommender-System)  
+📄 Published at AICDMB 2023 — [DOI](https://doi.org/10.1201/9781003363781-32)  
+K-Means & collaborative filtering for personalized recommendations.
+
+### [DoorDash ETA Prediction](https://github.com/deepaliattavar/DoorDash-ETA-Prediction)  
+190K+ orders analyzed, XGBoost used to improve ETA accuracy.
+
+### [Lululemon Performance Analysis](https://github.com/deepaliattavar/Lululemon-Web-Performance-Analysis)  
+Post-holiday funnel analysis, Power BI dashboards, conversion fixes.
+
+*(More in my GitHub profile → [See all projects](https://github.com/deepaliattavar))*
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my repos and drop a ⭐ if something resonates with you.*
+## 🏢 Experience
+
+**Applied Materials** – *IT Solutions Engineer (Jul 2023 – Jul 2024)*  
+- Built Python-MongoDB chatbot for ticket resolution (↓6 min avg time)  
+- Migrated 400+ SAP HANA tables to Databricks with Qlik Replicate  
+- Led Azure cloud migration with KPI dashboards in Excel
+
+---
+
+## 🎓 Education
+
+**UT Dallas** — M.S. Business Analytics & AI (GPA: 4.0)  
+*Dean’s Scholar | Machine Learning, Optimization, Python for Analytics*
+
+**PES University** — B.Tech. in Computer Science & Engineering (GPA: 3.64)  
+*Specialization: Machine Intelligence & Data Science*
+
+---
+
+## 📬 Contact
+
+- 📧 deepali.attavar@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/deepali-attavar)  
+- 💻 [GitHub](https://github.com/deepaliattavar)
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore, star a repo, or connect for collaboration.*
