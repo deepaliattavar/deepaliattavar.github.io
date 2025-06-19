@@ -27,7 +27,7 @@ ML model with 98% accuracy using PCA and Scikit-learn.
 ### [Parking Lot Management System](https://github.com/deepaliattavar/Parking-Lot-Management-System)
 MySQL-based automation handling 700+ weekly transactions.
 
-### [Location Recommender System](https://github.com/deepaliattavar/Location-Recommender-System)  
+### [Location Recommender System](https://github.com/deepaliattavar/Location_Recommender_System)  
 📄 Published at AICDMB 2023 — [DOI](https://doi.org/10.1201/9781003363781-32)  
 K-Means & collaborative filtering for personalized recommendations.
 
