@@ -59,7 +59,7 @@ Developed an extractive NLP summarizer using **BeautifulSoup and NLTK** to gener
 
 ## 🎓 Education
 
-**UT Dallas** — M.S. Business Analytics & AI (GPA: 4.0)  
+**UT Dallas** — M.S. Business Analytics & AI (GPA: 3.8)  
 *Dean’s Scholar* | Machine Learning, Web Analytics, Statistical Modeling  
 
 **PES University** — B.Tech. in Computer Science & Engineering (GPA: 3.64)  
